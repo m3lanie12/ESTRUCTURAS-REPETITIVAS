@@ -1,6 +1,7 @@
 # ESTRUCTURAS-REPETITIVAS
 Nombre: Gonzalez Cruz Melanie Guadalupe 
-/No. Contro: 24150820 
+
+No. Contro: 24150820 
 # DESCRIPCION DE LOS PROGRAMAS 
 1. contador_digitos: 
    Este programa te pedira ingresar un numero entero y lo que hara es contar cuantos digitos contiene. 
